@@ -1,6 +1,6 @@
 # Nonlinear Thomson scattering of intense laser pulses from beams and plasmas
 
-Paper: Esarey et al "Nonlinear Thomson scattering ofintense laser pulses from beams and plasmas", PhysRevE.48.3003 (1993)
+Authors of paper: Eric Esarey, Sally K. Ride, and Phillip Sprangle
 
 Link: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.48.3003
 
